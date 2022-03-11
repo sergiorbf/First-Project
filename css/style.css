@@ -1,0 +1,111 @@
+
+
+body{
+    background: #bbb888 url(images/noise.png);
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Verdana,
+    sans-serif;
+    line-height: 1.6;
+}
+
+ h1 a {
+        text-decoration: none;
+        background-color: #554;
+        color: white;
+        margin: 300px;
+        width: 1300px;
+        padding: 5px 0;
+        position: relative;
+        text-align: center;
+ }
+.container {
+    margin: 80px;
+    width: 960px;
+}
+.b1 {
+    background-color: #5548;
+    border-color: #ccc #999 #999 #ccc;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+.b1 h2 {
+    border-bottom: 2px dashed #7e9f19;
+    margin: 0;
+}
+.b1 a {
+    color:silver;
+    font-weight: bold;
+}
+
+.img1{
+    max-width: 300px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.img2{
+    max-width: 200px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+
+.img3{
+    max-width: 350px;
+    max-height: 300px;
+    width: auto;
+    height: auto;
+    border: 1px solid #7e9f19;
+    float: left;
+    margin: 10px 10px 0 0;
+    padding: 2px;
+}
+
+.clear {
+    clear: both;
+}
+
+.sidenote {
+    background-color: #5548;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 260px;
+    top: -1014px;
+    right: -1050px;
+    position: relative;
+}
+
+.sidenote h3 {
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.sidenote ol {
+    font-size: 12px;
+}
+
+.footerclear {
+    font-size: 12px;
+    text-align: center;
+    position: relative;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.article {
+    position: relative;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+ }
